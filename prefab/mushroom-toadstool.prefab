@@ -126,3 +126,4 @@ MonoBehaviour:
   itemType: mushroom
   itemId: 101
   spriteFile: 101_mushroom_toadstool
+  isStackable: 1
